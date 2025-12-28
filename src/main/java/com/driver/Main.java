@@ -4,7 +4,6 @@ public class Main {
     // Task 1: create a class Product inside Main class
   static class Product {
 
-
         // Task 3
         public int product(int x, int y) {
             return x * y;
